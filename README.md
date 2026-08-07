@@ -67,12 +67,12 @@ As a fresher, I bridge the gap between development and infrastructure by leverag
 
 ## 📁 Featured Learning Repositories And Projects
 
-| Project Repository | Focus Area | Status |
+| Repository | Focus Area | Status |
 | :--- | :--- | :--- |
-| 🐧 `Linux & Automation` | Linux, Bash Scripting, Python for Automation, Go for tooling and infrastructure | 🟡 In Progress |
+| 🐧 `Linux & Automation` | Linux, Bash Scripting, YAML, JSON, Python for Automation, Go for tooling and infrastructure | 🟡 In Progress |
 | ☁️ `Cloud & Infrastructure as Code` | AWS Cloud, HCL, Terraform, Ansible,| 📑 Planned |
 | 📦 `Containers & Orchestration` | Docker, Kubernetes, Helm | 📑 Planned |
-| 🚀 `CI/CD, GitOps & Developer Experience` | YAML, Git, GitHub Actions, ArgoCD, Backstage (IDP) | 📑 Planned |
+| 🚀 `CI/CD, GitOps & Developer Experience` | Git, GitHub Actions, ArgoCD, Backstage (IDP) | 📑 Planned |
 | 🔒 `Security, Policy & Governance` | HashiCorp Vault (Secrets Management), OPA (Policy as Code) | 📑 Planned |
 | 📊 `Observability, Monitering & Telemetry` | Prometheus, Grafana, AWS CloudWatch, Datadog | 📑 Planned |
 | 🤖 `AI Infrastructure & MLOps` | MLOps Platform Engineering, MLflow, AI-Driven Workflows | 📑 Planned |
